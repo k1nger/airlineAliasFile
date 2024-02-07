@@ -1,0 +1,1432 @@
+27 American Airlines
+JSG JetSetGo!
+PFA PuffinAir
+CRY Creepy Landings Holidays
+VAL Virtual Airlines
+FGL FlyGlobal
+KAL Korean air
+AMX Aeromexico
+OS Austrian Airlines
+UEA EMIRATES
+RYR Ryanair
+694 United Airlines
+OAV Olympic Airlines
+JLA JetAirlines Virtual
+CTN Croatia Airlines
+FOF Friends of Flight Virtual
+SFR Seattle Floats and Rotary's
+AJ AJOTA Virtual Airlines
+FHG FSXHG Airlines
+SER AIR Serbia
+LOT LOT Polish Airlines
+GRL Air Greenland
+CMP Compass Aviation
+BRU Belavia
+ASS AirStar Services
+VJC VietJet Air
+BEE BEEvirtual
+SWA Southwest Virtual Airlines
+AFR Air France Virtual Official
+LMK Lufthansa MK
+AEE Aegean Airlines
+MHA TUI UK
+SMC SquawkModeCharlie
+SPA SandPiper Air
+GIA GIACURSERVER
+EMR Fly US
+EZF easyFly
+SW SouthWest
+KL KLM Royal Dutch Airlines
+GOL Gol Transportes Aereos
+KRY ACV VA
+KTE Kitsune Airlines
+JAL Japan Airlines
+FTA Filip Trinajstic
+CHA Currahee Aviation
+FAS Fly Asia
+MVA Mickey Virtual Airlines
+LPO lot poland
+PAW PAW Virtual Airline
+USA US Airways
+CAA Compass Aviation - Asia
+QVA Qvirtual
+PES Pes Airlines
+WLA Werni Line Air
+PAL PHILIPPINE AIRLINES
+AVA Asia Virtual Alliance
+SEJ SpiceJet
+AZA ALITALIA
+ANA ALL NIPPON AIRWAYS
+MTN Mountain Air Charters
+TNY TNY Airlines
+ARR Air Russia
+GA German Airlines
+JAT JetSmart VA
+CON Condor Flugdienst
+FWA FawwozerAir
+TWF ToWiFlights
+LBA Landing (Badly) Airlines
+GLO Gol Linhas Aéreas Inteligentes
+777 KLM ROYAL AIRLINES
+EAS EAS - Europe and North America
+RTW Round the World
+HNL HNL Air Transport
+VA Ventura Airlines
+YPE Ype Executive Airlines
+PAC Pacific Air
+AVV Avianca Virtual
+MSR egyptair
+FIN FINNAIR
+FCM N°RRA (Nordic Regional Airlines)
+PVT Private
+YOR Yorktown
+JCQ JCQ-Airlines
+CTV Citilink
+790 Travel Service
+LST LostOFF air
+AAS Allgäu Air Service
+KST Kaster Aerolineas
+AIP AIR PANSEMENT
+BER Air Berlin
+001 EkiAir
+CBJ China Northern Airlines
+FRL FAAirlines
+IBI Air Ibiza
+BDO British Domestic
+HLY HLAY Airlines
+YON Yondair
+FSH FSHost Airways
+PGT Pegasus Airlines
+ACC Aerocondor
+CTF Catania Fly
+EFI Enjoy France International
+WLW WorldWings
+MAS Malaysia Airlines
+PZL Puzzles Airlines
+KSL KondesStreifen Linie
+TSC Toscani Emirates
+DRS DREAM LINERS
+BA Boyer Air
+S.A Serenity Aviation
+TCX tuiAIR
+SA SchaefAir
+VAA Virtuel Air Alsace
+DKA DAKOK Aerolinie
+ROT TAROM Airlines
+LAN Latam Chile
+737 AIRVIRTUEL737
+SBI S7 Airlines
+PBD Pobeda
+AAA Air America
+AC Air Canada
+COL Colombian Airlines
+MIL Milliways
+UA Untitled Airline
+PGC Pacific Global Charter
+RYA Ryanair
+TNA The Nasty AirCharter
+RAL REINERT AIR LINES
+YO Year One
+DFL Dutch Fly VA
+DTR PrivateDTR
+LYN Lyon Airlines
+TRB Tarba Airline
+BPV Black Panthers Virtual
+AAV American Virtual
+AUI UKRAINE INTERNATIONAL
+VAZ VirtuAlitalia
+PS Ukraine International Airlines
+AL Arruda AirLine
+ISS Air Italy
+BC BCAirline
+SMW Travel Service
+TAR Tarom virtual airlines
+AZR Azores Airlines VA
+KLU Angular Airlines
+IRB Iran AirTour vA
+C0L Colomo Airlines
+CAK AndyKiwi Airline
+DTH Air Algéire
+PL PLPLPL
+IR IranAir
+MTA Milton Air
+QAC Qatar Cargo
+DLH Lufthansa
+ETS Emirates
+ICE Virtual Icelandic Airlines
+NVA NOAR VIRTUAL
+FRN F/AIR.
+SAL SticoAirLines
+PCG Play Crazy Games
+LUF LufthansaEU
+APN Air Polonia
+WVA WEED VA
+RST RST AIRWAYS
+EFA Erickson Family Airlines
+BXX BIGMAC Aviation
+AEL Air Europe VA
+ZAS Zeta Airline
+SIN Sinop Airlines
+AV AirVolett
+AIB Air Iberia
+PAR PatoAirlines
+SUD SUDAN AIRWAYS
+SQ Singapore Airline
+GHY Germansky VA
+AZU Azul Virtual
+IBE Iberia Airlines
+AVC AVIANCA COLOMBIA
+TWA Trans World Airlines
+BHA Big Haul Airlines
+JBU Jetblue
+ESK euroSKIES
+FFT Frontier
+NKS Spirit
+WN Southwest
+AAG American
+UAG United
+AKA Alaska
+KLM KLM Royal Dutch Airlines
+SXM Heron Airways
+AFL Aeroflot
+WZZ Wizzair
+RYN Ryanair
+TRS Smartwings
+DLA Delta Air Lines
+CSP CSPAir
+VLG Vueling
+LHS Lufthansa
+ALI Alitalia
+AFC Air France
+LBT Nouvelair
+TNS Tunisair
+IBR Iberia
+EGY Egyptair
+POL LOT Airlines
+NAS Norwegian Air Shuttle
+SAS SAS Scandinavian
+EMI Emirates
+VOE Volotea
+AEA Air Europa
+EJE EasyJet
+EDW Edelweiss Air
+KLX KLM Royal Dutch Airlines
+TAV Transavia
+TRM TAROM Romanian Airlines
+SWI Swiss International Airlines
+PGS Pegasus Airlines
+CAI Corendon Airlines
+OHY Onur Air
+TWI Tailwind
+AEX Aegean Airlines
+BTA British Airways
+EIN Aer Lingus
+BMS Blue Air
+FDB Fly Dubai
+CRO Croatia Airlines
+FIA Finnair
+AEF Aeroflot
+GWI Germanwings
+EWS Eurowings
+ASL Air Serbia
+AUS Austrian Airlines
+BSS Brussels Airlines
+NOS Neos Airlines
+SXS SunExpress
+JTW JTW
+BTI Air Baltic
+TPP TAP Portugal
+CFG Condor
+SOO Southern Air
+BOS OpenSkies
+EJU easyJet Europe
+AML Amazing Airlines
+FSE Flight Simulator Español
+LMU Al Masria Egypt
+DLL Delta Airlines
+TAE Trans Aegean Taxi
+UKJ Ukraine International
+NTC Night Transport Company
+EHA EasternHops
+BIG Big Foot Deliveries
+TUA TUI Airlines
+QMR RAYAIR
+RYV RoyaleVest
+BLF Blue 1
+FZA Fanzy Air
+BVA Beaver Air
+DEL Delta Airlines
+LQX AirLuxury
+UNI United
+FIT Fly Italy
+FRA Frankio Airlines
+STA Star Alliance
+IKA Ikarus Airlines
+QUA QATAR Airways
+OMA Oman Air
+BU British Airways & Ukraine
+FF Federated Freight
+LHG Star Alliance Group
+CLC Clearwater Charters
+201 FEDEX2019
+PMI Air Llonguet
+DCS DCS Airlines
+WWA World Virtual Airline
+AUE Austrian
+GAW Gowen Airways
+CTA Captain's Airlines
+FSX Scandinavian and Europe Flying
+CHH Hainan Airlines
+POJ WOW!!!!
+OCM OCM Airlines
+JZR Jazeera Airways
+CAY Cayman Airways
+IBS Iberia Express
+ARG Aerolíneas Argentinas
+B4U Boeing4U
+AWV Air Wales Virtual
+RVA Ryanair VA
+AZV Alitalia VA
+AME American Airlines
+QLK QantasLink
+VFA Sydney Flights Airlines
+EJM Executive Jet Managment
+LBC L & B Charters
+535 DH Airways
+LMA Landmark Airways
+TP TAP Air Portugal
+DY Norwegian Air
+VBV V-Bird Virtual Airline
+WZP Wizzair Poland
+GS GS Airlines
+LTR Norwegian Lufttransport
+BUV Beaver's United Virtual
+CKS Global Airways
+IDN Garuda Indonesia
+JBA JetBlue Airlines
+389 DELTA 389
+CTD Cathay Dragon
+CTC Cathay Pacific
+DUS Air Düsseldorf
+OAL Olympic  Air
+NWV New Wave
+997 EZY997
+EAV Enter Air Virtual
+SRP Air New Zealand
+JDC Dutchie Simviation
+FUW FlyFuwu
+EMP Empress Airlines
+TMR Air France001
+PLM Wamos Air
+ACN American
+DL Delta Airline
+702 DELTA 777-2LR
+BAA Boeing and Airbus Aviation
+PAT Pateb Air
+EG3 Hugo21
+AUN Airplane Universe
+FTL Foxtail Airlines
+KOR Air Koryo VA
+SAV South African Virtual Airlines
+LGS Le Groupe
+RGA Ravenguard Air
+SRA Southern Regional Air
+WTR World Tour
+HOP HOP! Virtual
+OAC Oceanic Airlines
+UAX United Airlines
+JRA jandersen016
+VDW VDW Airlines
+WEB Webjet Virtual Airline
+ARE Latam Colombia
+QAN QANTAS
+KEN Kenya Airways
+IOB International Operated By
+KLC KLM Cargo
+LAD Lynx Air Defense
+INT Air Inter
+424 Onda Airlines
+N14 Privateair
+HAL Hawaiian Airlines
+ARS VIRTUAL ARTIS AIRWAYS
+RAA RA Always Airline
+AAU Australian Airlines
+IFI Infinity International VA
+FOO Level Europe
+AIT Air Italia
+MAL Air Malta
+GWA Galactic Warrior Airlines
+VJA VipJet Airlines
+LTX Lonestar Cargo/Jet Management
+IRQ Iraqi Airways
+SAU Saudia
+EW Eurowings
+PTA Platinum Airways
+WWV WestWind Virtual Airlines
+JAW Joe Airways
+TVA Timber Virtual Air
+DAC Dragonfly Air Charter
+U2 EasyJet
+MOV VIM Airlines
+VOI Volaris
+GAF German Air Fleet
+IBB Binter Canarias
+AM Aeromexico
+IJO Interjet
+THW TurkishWings
+ALG Air Algerie
+PVN Peruvian Airlines
+TOM TUI Airways
+KUW Kuwait Airways
+ETI Etihad
+DRK Drukair
+POB Pobeda
+IBA Iberia Lineas Aéreas de España
+BWA British Aifrways
+AST Air Astana
+SIK Skylink Virtual Airlines
+PAK Pakistan
+EZY EasyJet
+RII Air Costa Rica Virtual
+FLI Atlantic Airways
+ARF Air France
+ISR Israir
+SSP SkySpotter
+UAA Emirates Airlines
+153 Bos air
+FRE FREEE.com
+VIR Virgin Airlines
+AMI Amihan Airways
+VYA Voyager Airlines
+CHK ChakAire
+SWX Swiss Air
+FLW FLY WORLD
+EAG EAGLE AIR
+WIN WintAIR Aviation
+TJV Twinjet Virtual Airways
+CWI CarpatWings
+MON Monarch Virtual
+IRA IRANAIR
+DAA Daiei Airlines
+XPM xplane-smartcopilot
+MAT Air Marcellonia
+EUA EuropAir
+IFC Virtual International Flying Club
+TLA Transcontinental airlines
+260 SopiAir
+WRM WORLD-SKIES
+JMC JM AIRLINES
+SAA South African Airways
+KLV KLM Royal Dutch Airline
+CEB Cebu Pacific
+THA Thai Airways
+JEB Jet Blue
+WOA World Airways
+SWT Southwest Airlines
+MXB MockingBird Air
+MEX Aeromexico
+VAP Virtual Air Philippines
+ELX Eurolux-va
+SVA Sedspvp Aviation
+UDA Ukraine Drozd Airlines
+ADV shuravi Airlines
+SKW SkyWest Airlines
+D20 Meeple Air
+CCM AIR CORSICA
+LGV Lincolnshire Go Virtual
+ACA Corsica Airlines
+LGL Luxair
+AFA Aeroflot airlines
+ACH Air-Child
+WAA Witt Airlines
+AOE Austrian Airlines
+CES CHINA EASTERN
+TAT Air Transat
+REU AIR AUSTRAL
+CAN Canada Air Virtual
+ZML Zmol Airlines
+FAL fresh airlines
+SKX Skylines Express
+FEG Fly Egypt
+ALB Albawings
+OEO OneEngineOut Airways
+SAI Spanair
+PCO Picanha Air Corporation
+WGS Wings Charter
+GAL Glockness Airlines
+MAC Marcair
+MAD MadSquad
+ATT ALA TRANSPORTE TÁCTICO - ECV56
+BAI BeatoAir
+ESH EastenHops
+AEC Australian Aviation East Coast
+EZS easyJet Switzerland
+CSA Czech airlines
+BTK Batik Air
+ETH Ethiopian Virtual Airlines
+SDA Saudi Arabian Airlines
+AFW AFRIWINGS
+ECO Ecofly Virtual Airlines
+OMS OMS Airways
+LAL FLY LAL
+SPL SIM-PLANET LINES
+CRK Hong Kong Airlines
+RDG Ringding Airlines
+SSV sasVirtual
+ALC AirlineChile S.A
+FNM FlyNaem
+HTA Hikkit Airlines
+EZA EasyJet
+PEP Pepto Air
+MDA MD Air
+WAF WaffleAir
+JBR Jet Brasil
+581 china east airline
+CLX Cargo Lux
+STS Senta Air
+BAR BarryAir
+TRA Transavia
+ASV Air SeaTac Virtual
+PRO PRO4Sim
+HKE Hong Kong Express Airways
+DRY DryAir
+SYR SYRIAN AIR
+UAL United Airlines
+CGV CARGOv
+GEC Lufthansa Cargo
+IEG IndianEagle
+LUX Luxury Airways Virtual
+CIV Coastal International
+EXR europeXpress Regional
+EXP EXPRESS
+PRZ Air Paradise Indonesia
+OSS OSSY FLYING
+BVR BAVARIA
+DBX DBX Airlines
+KL2 KLM Cityhopper
+IAW Iraqi Airways
+TGE Tangent Airways
+DRA Derry Air
+WIR Wise Air
+SUP SkyUp Airlines
+IB2 Iberia
+ZON Zon Executive
+CLI Clickair Virtual Airlines
+EAZ Eastern Atlantic Skyways
+MBP MSFS BUSH PILOTS
+KL3 KLM Netherlands
+WAG WAG - World Alliannce Group
+DAL Delta Airline
+DTP Debauchery Tea Party
+NWL new Way logistics
+SNA Shacknews Airlines
+HAM JakeAir
+BBD BlueBird Cargo
+103 Jolly Rogers Airlines
+FLY Fly Air
+PCP Porcupine Air
+APJ Peach Aviation
+WIA William Air
+AF2 Air France
+FUX FlugFuxx
+MFL MedFlight
+DKL DK Airlines
+CHR CHAir Swiss
+TIA Temasek Intercontinental Airlines
+FSP Miguel Silva Airlines
+570 shamrock
+FAI FurAir
+LVL Level Airlines
+LUA Lukee Airlines
+MRM Marmara Virtual Airlines
+GAC Gillies Airways
+ENT Enter Air
+TUR Turkish Airlines
+AOM AOM French oversea airlines
+AAL Aben AirLine
+MAR MostAirlines
+AF8 AIR FRANCE
+VVC Viva Air VA
+SMJ SimJet Virtual
+EMA Emisph'Air
+PJT ProJet
+CPA Cathay Pacific Airways
+SKN SKN Airlines
+TAI Ticilo Airlines
+FBG Fakebeardgamer Airlines
+MAW Maya Airways
+SAC South Atlantic Charters
+LMC LM CARGO
+ETD Emirates
+CCA C&C Airline
+ARC AirChannel
+ALK Srilankan Virtual Airlines
+LKA Link Airways
+ISA ItalSud Airways
+SJR SjaakAir
+MAV MeloAir
+FDX FedEx VA
+EZX Crescent
+JHA JWH Airways
+AJO Air Ajoji
+AQA Azon Airlines
+COR Crow Airlines
+IAV Intellectual Air
+OLY Olympic Air
+GBG AirGoldberg
+CFD Condor
+DSA DontSink Airways
+DTA Delta Air Lines
+JCG jchang274
+SA9 SAPCO VA
+EWG Eurowings
+HMZ hamzala
+FWI Air CaraÏbes Virtuel
+VLI Vueling
+ZAR ZAR Airways
+SAM Sam Air
+DGI DGI Air
+STI Stinson Air
+GTI Atlas Air
+DNV Donavia
+SLA Silk Air
+CLH Lufthansa
+WAS Washington Regional
+PIA Pakistan International Airlines
+JAS Jet Aviation
+JES Jetsmart Argentina Virtual
+UAT United Travel
+FBA FrankyBoyAirline
+JB6 Jetblue
+XST ProAPI_SD_Test
+XSP ProAPI_SD_Prod
+NKW Spirit
+GFY air huso
+JET Aerojet VA
+ACL African Lift
+CAL CALEDONIAN AIRLINES
+ETA Executivo Taxi Aereo
+LXX ContreLux Airlines
+PIR Panam Airlines
+RJD Royal Jordanian
+FDR Fly dAIReos
+FFB Frontier
+TAP TAP AIRLINE
+SWB Southwest
+UAS United
+BRA Galle Air
+SVV Spirit Virtual
+WIS Wisiairlines
+AZX Azur Air
+MAX MOTIVE ALPHA EXECUTIVE
+AIQ Thai Airasia VA
+VAT Virgin Atlantic
+FDC Freight Dog Cargo
+TAL Tris' Airline
+OAH OnAir Hispano
+CNV Canada Air
+MUA Munch Airlines Denmark
+FYG Flyingo
+CSW City Airline
+IVA IBERIA VA
+BAW British Airways
+ASK Alaska
+TTA Titans Air
+VOA VOANDO ALTO
+OTE Oté Île De La Réunion
+EAR Ellinair
+RAC Reddys Airlines
+CLV Climb Virtual Airlines
+FBE FrenchBee
+MUC Bavarian Airline
+LFY Leisure Flights LTD.
+AAF A74F Airlines
+SCX Southern Charter
+MHY Maya Airways
+ABW AirBridgeCargo
+LAI LAI - Linee Aeree Italiane
+SOL Solomon Air
+AAR Air Arabia
+RAM Royal Air Maroc
+ASG Air Senegal
+RTR RedJet Airlines
+VVA Aerolinea Venezolana Virtual
+PNF PANAFRICAN AIRLINE
+SZN AIR SENEGAL AIRLINES
+GDN Golden Sky
+VRE Air Côte d'Ivoire
+NXS Nexus Air
+ALF ALF Airline
+ELA EL AL Israel Airlines
+ADH ADSKY AIRLINES
+ADL ADSKY AIRLINES VOLS LIBRES
+ADF ADSKY AIRLINES TOUR DE FRANCE
+GMD Guardian AirMed
+UVA UsAir Va
+DGR Italair Virtual Airlines
+AMO Aeromexico
+EAE Europe Air Express
+TSO Transaero Airlines
+KGL Metrojet
+VIM VIM Airlines
+SMF 89th Airlift Wing
+THR Thor Airline
+BLW BlueStar Airlines
+ZIP ZIP VIRTUAL
+COA Continental
+TPC The Pilot Club
+ANW Animawings
+XAF Xplane Airforce
+GFA Gulf Air
+SIA Slovakian Airlines
+QRI QATAR AIRWAYS
+SLR Slavair
+PML PiemeLair
+MPA MPilotAIR
+THK Turkish Airlines
+TWG Trans World Global
+TCE TOUR COMMUNAUTE EUROPEENNE
+CKA Cookie Airline
+VRG Virtual Varig Brasil
+AAK ADSKY AIRLINES Kiss-Landing
+NRW Narrows Aviation
+TAF TOUR AFRIQUE FRANCOPHONE
+STF StarFlight Virtual
+AA. American Airlines
+FVF FRANCE VFR
+BVX Osprey Airways
+AXC Alpha Airways
+AAN Oasis VA
+WAT Walker Air Transport
+AAH Aloha Airlines
+BDF bodenseeflug
+SAZ Scandinavian Air System
+VVV Bamboo Airways
+SVR Ural Airlines
+JFX JET Flex Aviation Charter
+GMT GaLsoš
+FWD FlyingWithDanNZ
+BOA Flight Sim Academy
+FTN FlyTense
+SAR Santol Airlines
+VMA Marine Air Virtual
+VA! Vintage Airlines
+VDG Gariffit Air
+EFV European Flight Service Virtual
+LZB Bulgaria Air
+ZZG ZigZag
+FRZ Fioruz Airline
+OWV Oneworld Virtual
+JAA Jackton Airlines
+BEX Blue Eclipse
+FBO Fly Bosnia
+OOB Brussels Airline
+STV Star Alliance Virtual
+TSH Twin Super Fly High Airways
+BTO AEROBOTECO
+WTS World Tour Services
+AA1 Asylum Air
+HAW Hooligan Airways
+FNS Flynas
+IRN Iran Air
+TCH TPC Charters
+CRB Cerberus AirClub Italy
+ANC Anchor Air
+UTA Utair Aviation
+USV United States Armed Forces Virtual
+BFR FlyRB Airline
+FYL Bing Bong Airways
+SKB FlySkyBus VA
+VRS Virtuspa
+AFI Africana Virtual Airways
+HAO Hero Air Ops
+DVA DUVAL-AVIATION
+JE2 JET2 Channex
+ELC DENY LIMA TAXI AEREO
+SJO Spring Airlines Japan
+HVC Helvetic
+EJF easyJet France
+JNR Jonair
+LXA Luxair
+FFA FireFly Air
+ALS Air Lusitania
+ACX AIR CANADA
+WTA World Tour
+NTL Neutral Airways
+TAS Tarnish airways
+PDC PDC Airlines
+MBA MAT77AIRLINES
+TAW Total Airways
+N1A NAP1804 AIRLINE
+SCA Sky Circuit Airlines
+UKC UK Charter
+AUA Austrian Airlines
+PHX Phoenix Transportation
+BMK BmK_Airlines
+AER AEROFLOT
+KQA Kenya Airways
+CMX CargoMex
+MMX Aeromexico
+LTU Luft Transport Union
+DDT Daiki Deci Travels
+HZA Horizon Aerospace
+OJE ORANJE Air
+VAS VASP - Viação Aérea São Paulo
+C4P Civil Air Patrol
+INE Inept Air
+FLG Fliggity Air
+HHT Heavy Haul Transport
+RAR RyanAir
+BNA Bwana Air
+AMG AMG Airline
+XAL Virtual Aer Lingus
+BDA Big Daddy Airways
+FLH FlyHi!
+PBP Panavia Air
+FTX Delta Airlines
+VOL Volare
+TDA Tyler Durden Air
+CGS Chicago Air Shuttle
+TRU TRUE Air
+SAW Star Lines
+AFF MSFSAFF Air
+SN. Sabena
+EWU Eurowings
+CEJ Centauri Charters
+FSK Transavia B.V.
+VO7 Volotea
+LFL LifeLine North America
+DEG Dinero Eagle Gang
+FHT Flyn High Transit
+JSY Jersey European Virtual
+RYF Ryanair Virtual
+KAY K Global
+VFE Virtualflyte
+STR Star Alliance FSE
+LMN Lemon Air
+NOA Nightowl Aviation
+LHM Lufthamster
+YYD Yoyodyne Air
+AMC vTAC Air Mobility Command
+CRA Crash Airlines
+BMA British Midland
+ULS UltraAir VA
+RAF RAF Virtual
+SJA SAPAJOUT Airline
+ARB AIRWEB
+OAB Outback Air Charter
+WWD wild wolf airways
+EUG Euregio Airlines
+DGA Deadstick Gaming Airways
+SGA StirloGaming Airways
+ASA Alaska Airlines
+CPT CapitanAir
+EJV EasyJet VA
+ANY AnyAirline
+TOW ToWa Airlines
+ICS Ici C'est Simu
+ATA AUSTRIA AIRLINES
+DSE Slipstream Aviation
+ECT Emerald City Airlines
+IAS Indonesia Air Service
+AFE Air Force Escort
+FED FedEx Freight
+TRL The Repository of Lost Legends
+WSW WolfZ Skyways
+CSL Cryptic Streamliners
+GPA Gialupinski Air
+BBN Bluebird Nordic
+THC THC420
+STW Southwest
+ABR ASL Airlines
+BRY Brymonvirtual
+PAI Paradise Isles
+AVI Aerolinee Virtuali Italiane
+FSL FS Live Airlines
+NDA Nabelly Air
+HBX HotBox Airways
+VAV Vision Air Virtual
+NPT West Atlantic
+JST JetSet
+WIZ Wizz Air Hungary
+PSA Passerina Airlines
+HJC HeliJet
+SNJ Solaseed Air
+SMA Skymark Airlines
+AAI American Airlines
+TMJ TAMOJUNDO AIRLINES
+EUN Silver Star
+PCA Pacific Coast Aviation
+ITH International Transport & Hauling
+EVX Everyair Virtual
+GRA Grey Aviation
+CAP Civil Air Patrol
+HRA Hanger Rats Air
+ZOR ZORA Airlines
+VAC Argentum Aerolinea Virtual
+ARA AmunRAirways
+CAV Virtual Aero Club
+EYA EJay Air
+SPV Sun Priairie Aviation
+ABY AirArabia
+MFS Malagasy Flight Simers
+REW Red Wings
+ERO Aerosoar
+PEG flypgs.com
+LRC Red Air Club
+PJR Air Luso-Bonza
+TKA Anadolujet TK
+TKH Turkish Airlines A.O.
+SVW Global Jet Luxembourg
+AFV Unites States Armed Forces Virtual
+VRA vTAC RAF AMC
+VGR Varig Brasil
+AMR American Air
+SUW Sunwind
+BAL Air Balu
+BOI LeBoige Air
+BSA Boss Air
+DOC Norsk Luftambulanse Virtual
+SYW Skyward Air Virtual
+BED Airbed
+ANS Andes Virtual
+DAV Davout Airline
+CSN China Southern
+RUF Rufair
+CTU S7 Airlines
+BAX Britannia Airways
+FTS flythefriendlyskies
+GGA Gonzos Global Aviation
+SOT Spirit of Tornado
+BJA Bjonevika airlines
+GFN Goldfinch
+PWR Power Airlines
+TMT TrasMaTech Airlines
+CVR Flight Data Recorder
+INN Internation Airways
+JNK Juank Air
+FFE FFE GmbH
+CHS CHASE-Air
+EGL Eagleland Airlines
+VIS Vistajet
+PXA Phoenix Aviation
+A-A Airlock Airways
+BGA Bruton Global Airways
+AGK Anderson_GamingUK
+HDN HIDDEN AIR
+TVF Transavia France
+SOX ParaSox Air
+AQU aqu4rium airlines
+RZO Azores Airlines
+ODY Odyssey Air
+VFY VaFly Group
+TPA TAP Air Portugal
+JKA JACKTON Airlines
+SJC Stratman Jet Charters
+HMT HMT Airways
+BRT Burt Aviation
+ANJ Andesjet Airlines
+AIR Air Charter
+MET MetroAir Virtual Airlines
+SEA SkyEurope Airlines
+VOY Voyager Aviation
+IMP Imporcars Air
+MWA MeyWin Air
+FSA Full Stop Aviation
+ITA ita airwase
+BAM Boneloose Air
+ALP - AlPak Aviation -
+SWV SouthWest Virtual Airlines
+AOR Aurora Aviation
+IAF ItalyAir Flight
+TBA Thunderbolt Aviation
+HHV Transavia Holland
+MFA MyFly Airline
+TDC Tyler Durden Charters
+WSF Willes Flyg
+XAV XBOX Aviators Virtual
+PEA Perry Airlines
+LRI Laridia Airlines
+CFR aerocaraibes
+JLS Jet Links
+AZH Azgharie Airlines
+SFA StarFish Air
+MMA Millionaire
+ZZS CSNSZX
+PIW Pacific Northwest
+SRR Star Air ( MAERSK )
+TVS Smartwings
+CBA Columbia Aviation LLC
+CDV Copains de Vol
+LDR LDR Taxi Aéreo
+BUY Bluyonder
+ERS Formula 1 World Tour
+EAL Eastern Air Lines
+HNT Henati Air
+AES Air 80‘s Executive
+ADC ALAS DE COLOMBIA
+GAP PAL Express
+ILC Island Lynk Charters
+709 DrifterAir
+UKS UK Skytours
+NOX Noxic air
+SXC Sussex Charter
+ULT Ultima Airline
+UAC United Airlines Company
+EAB Eagle Airlines Virtual
+PAA Pan American World Airways
+BHL Bristow Netherlands bv
+FCS 100kts Flight Sim Club
+RBA Romeu Bravo Alfa Airlines
+EXU 1 (ANZ) Expeditionary Unit
+NIR Nirvanair
+YRK Yorkshire Airlines
+CGF VA Cargo Air
+MSC Air Cairo
+AXI AXIS Aviation
+MCO MANX AIR
+YAL flyAlba
+EVA EVA  AIR
+BYC Bluyonder Charters
+SOA Slovak Airlines
+VER Verstappen Force One
+FFR FsFan_BE_FR Airlines
+HUB Hub Air
+SWN Swan Air
+LWI Lion Wings
+BWR Bewair
+CAS Crash Airlines
+TMW TomosWorld Airlines
+BFP BalkanFly
+SCS Scandinavian
+GAX Global Alliance
+JIR Joshi Air
+KWA KWA Charters
+SBD Starbird Aviation
+AWA AW Aviation
+WWF Weekend Warriors Flying Club
+BYF Bay Area Aviation
+TDG TallDog Aviation
+HBA HotBoxAir
+NSL Nederlandse Spoorwegen Airlines
+MSY MSY AIR
+MZN Mizzen Aire
+FCD Fresh Cargo Delivery
+SBC Starbird Charters
+COY Coyote Air
+FNF Fat N Furious Airlines
+BRX Belavia
+PFS PRAETORIANS AIRLINES
+GAV Monster Aviation Virtual RTW Tour
+NTM North American Virtual
+AL3 Air Alcoi
+TRN Transavia
+RUA Retro United Airlines
+GNS GNS Flight Services
+GLS Fly Global
+MCA McCoy AIrlines
+SAD Special Activities Division
+WUP Wheels Up
+RNA Roughneck Air Lines
+G3S Bordeaux express
+FFM Firefly Malaysia Aviation Group
+TES Air Trans Europe Scandinavie
+UNG Underground Air
+A2B A2B SkyLink
+SAP Sapphire Airlines
+MSV Mid South Virtual
+KAK USCG Air Station Kodiak, AK
+ADA Adriatic Airlines
+NUT Nutty Airways
+OMD Nomadic Aviation Group Virtual.
+MEA Middle East Airlines
+TMC Tarmac-Aero
+PDH PDH LLC
+S3H [Inactive] Sky Express Greece
+AHP AeroHop Virtual Airlines
+FLA FoxLog-Air
+VFS Virtual Fighter School
+COF Condor Flugdienst VA
+NOT Nordic travel
+AH1 JW's freight
+LHR Lufthanser
+MCS virtual Medical Air Service
+COM CommandAir
+T&A T&Kair
+GEW Getwings
+SAX Sky Asia Alliance
+RA7 Capt Rami777
+ALV Aeropostal
+PCC Pan Am Clipper Cargo
+ZAG Zago Airlines
+LOG Loganair Virtual
+VAR Volcan'Air
+PRM Prime Airlines
+ABC Africa Bush Charters
+EAW Enigma Airways
+NAZ Nazuna Aviation
+ROI Avior Airlines
+NTH Hokkaido Air System
+XNH Virtual All Nippon Airways
+EXX Elysium Airlines
+GFC German Flight Corporation
+MRI Moustache Rides International
+XJC Japan Air Commuter
+IKD India Kilo Delta
+FYS Fly South Airlines
+XAE AetherX
+VLD VLADAVIA
+DRN DragonAirlines
+SUS TheSusairways
+SIB Sibaviatrans
+BRC Brasil Central
+AZC Azgharie Cargo
+ARM ARAMIS AIR
+ACR AeroClub Savona e della Riviera Ligure
+HYN Hayne Aviation
+ACE ACC Europe
+PLX Planet Express
+MOA MorisAir
+RUV Atlantic Air
+XVA XWAY Airways
+SYG Soylent Green
+PRV Prime Freight Virtual
+RLR Roman air
+RXI Riyadh Airlains
+DHD Lufthansa
+KGA Kruger Airways
+FRV Air France Virtual
+SUA Sunair
+VFR VFR Club
+RVN Raven Air
+ROO Rooster
+AFG Proy Flyers
+GFW Global Freightways
+BAF Boarder Airlines
+GAB GabAir
+ALA American Airlines VA
+136 136th Airlift Wing VA
+MIA Mina Airlines
+AUL SMARTAVIA
+OCN Eurowings Discover
+MED Medicorp
+FAW FlyFalcon Airways
+AYJ AYJET Flight School
+RCH Reach Virtual
+GN7 MJ Air
+DFS Dirtbag Fares
+APP Appalachian Air
+IOW Latofy Isle Connect
+LAT Latofy Mainland
+RPB WINGO VIRTUAL
+GMC GMC Air
+RYI Ryanair
+BRN vTAC AMC HQ RAF Brize Norton
+AMB vTAC RAF  AIR MOBILITY COMMAND BRIZE NORTON
+AWL Airwestland
+WND Winterband Aviation
+BTS RicardoWINTAIN
+AGV Aéroclub Gaston Vailler
+JEG Jegue Airlines
+AIC Air Canada
+CYP Cyprus Airlines Virtual
+WMT Wizzair Malta
+NEL Nea Ellas
+CIC PeCiço
+ZAN Zaan Air
+NXA Nexon Airlines
+AWC Titan Airways
+UKV Fly UK Virtual
+OCA Old Crow Airlines
+ICO Intercargo
+WBL Weboo (Wibu Airline)
+APA Airway Philippines
+VST TheVietNamSimulationFly!
+RZG Ryzixg Airlines
+TAC Tacoma Air Cargo
+JXW JXW Flight logs
+OVK Overkill Airways
+NAA National Oceanic and Atmospheric Administration
+NAF Norwegian Air Ambulance Foundation
+THM The Airman Virtual Air Charter
+CDT CAP Virtual Flight
+NJE NetJets Europe FTW
+AIH Air Hungary
+BAE BRA_AIRLINES
+SCU SCU Airline
+ZHG Air China
+MEC Mirage Exec Charters
+LXO Luxor Aviation
+CGC CGCflyinggroup
+SWL Swift Airlines
+KEA KingEasy Airlines
+LFV Les Fous Volants
+ATF sud airlines
+MAY CARGO-BIG
+JUN Junkers Flugdienst (1920er)
+WAR Western Air Resource Group
+FTD ABjets
+COP Copa Airlines
+FTT FTT Airlines
+SKS Skystar
+SXK Silversky Airways
+420 KLM Royal Dutch Airlines
+NUV starJet
+UAW Ulster Airways
+B-A brussels airlines
+WES Westeros
+BEZ vBeez Virtual Airline
+SHK Shockey
+WIF Widerøes Flyveselskap AS
+COC COCO6969
+BKS Berkshire Airlines
+CCH Coastal Charters
+GSC vTAC Global Strike Command
+REA Aer Arann Virtual
+TVU TUI Airways Virtual UK
+GAS German Airspace
+EHO Epic Heli Operations
+BZN RAF Brize Norton Ops
+VUA United Airlines
+VPA Viper private air
+JT2 jet2 holidays
+NWN Fly Nowon
+WAK Williams and Kinte Air Charters
+DGF The Distinguished Gentleman's Flight
+KON Konarefr Aviation
+BZA Black Sheep Airlines
+EAT vEuropean Air Transport XBOX
+APV Armchair Pilots Virtual
+SAG staralliancevirtual
+THY Turkish Airlines
+BUC Bulgarian Air Charter
+-GQ Sky Express Virtual
+SFJ StarFlyer
+API Peach Aviation
+SKD Skybound
+HSG Hungarian SkyGlobal
+QFA Qantas
+JJP Jetstar
+ABL Air Busan
+SND Sandpiper Air
+BNC Bojan Kumric
+MHO Mokulele Virtual Airlines
+NCA Nippon Cargo Airlines
+SPR Superior Aviation
+BAC Baillie Air
+RNR Ryanair Virtual
+AUZ Australian Airlines
+MEG AirMegabytes
+UA1 Unstable Air
+VIP VIP Jets
+SLV SlavAir
+DYN DYNAMIC VA
+JFA JetFly Aviation
+EHY Ephesusva
+SWF Southwest
+AGE AIRGRENOBLE
+OAW Helvetic Airways
+FDA Fuji Dream Airlines
+AVL AeroVirtuel
+EUJ EuroJets
+CZW Czech Wings
+LID Líder Aviação
+MAG Military Air Group
+RAT Ratchet Air
+SYA SkyWings Airways
+TVI Transavia
+LTD LTD Airlines
+CCV Classic Club Virtual
+UVT UVTaero
+0CN Discover Airlines
+DAS Dragon Air Service
+PFI Pacifica Airlines
+SCO Scottish Airlines
+125 Helicopter RTW
+MZZ Mazzair
+ISC ISG CARGO
+KLA Kalong Air
+FTG Flying Tigars Group
+ACO vTAC Air Combat Command
+SIM SimFanatic Airlines
+CH8 CHERIBIBI8
+SAF Scenic air charters
+ONX Onix Airlines
+FHS FHS Virtual Airlines
+BXC Bjørn Air Cargo
+ECA Eclipse Airlines
+BAV British Airways Virtual (XBOX)
+TAM Latam Virtual
+LGA Legit Air
+PSW Pacific Swift
+RED Air Canada Virtual
+NAL Nordics airlines
+FAR Franc'Air
+SRM Storm Chasers
+SWW GLOBAL JET LUX
+PRA Paradise Airways
+SEE SeaAir
+FFV FFV Airlines
+LHC Long Hual Cargo
+BFL Buffalo Airways
+LLA LKW Airlines
+SBR SAS BRAATHENS
+VIA Virtavia Airlines
+PWA Pacific Airways
+FSC Flight Sim Central
+NOZ Norwegian
+QRT Quantum Airlines
+SHL SHL AIRLINES
+PER Perola Negra
+UKB The Badgers
+AGR Air Granada
+WPA WITTEBOLS PRODUCTIONS AIRLINES
+ETR Estelar Virtual
+RSN Finnair
+IVO Istituto Volta
+AAW Aura Airways
+MCP MYCape Air
+LEO Leo Air
+ARD Aerocondor Transportes Aéreos
+RPA On Air Republic Air
+QAI QuestAir
+DMN Duluth Virtual Air Charters
+QCA Quest Cargo
+KSA K&S Airways
+QTE Stall Virtual Air
+TSX SHAREDCOCKPIT
+VAF VA Flyingfriends - Italian Virtual Airline
+HLR International Hauling Inc
+JSA Jetstar Australia
+CYA Cheesy Airlines
+PSX PacSim
+MWG Mwings
+CTW Catwings
+AWT AirWürttemberg
+CV2 CDVTest
+WIP WingSpan Virtual
+KLO Koninklijke Luchtvaart Maatschappij
+EQX Equinox Air
+RQT Rotor Quest Transport
+LRA Red Air Line
+GRZ Grizzly Air
+PPP Pacific Coastal
+JMA Jambojet Airlines
+DAW Dutch Airways
+EKA Eska Airways
+JFU Jet4U (Jet for You)
+TWC The Waffle Cartel
+PSK AirPolska
+P1A Pakistan Airline
+RWO Round The World
+DHX DHL Group Virtual
+NSX The SONIC Group
+NEO Neos Air Virtual
+BCS European Air Transport Leipzig GmbH
+BKL Lakefront Aviation
+OPP GEORGIOS PARASIDIS
+CLA Cool Airlines
+RCF Atlantic Airways
+TOP TJ Airline
+AEG Aegean
+FPY Fly Play Airlines
+DLT Delta Air Lines Virtual
+USN Virtual Fighter Squadron 81
+VWA Vintage World Airline
+JWF JW Flight
+PST PastaSause Airlines
+XAC Air Canada Xbox Flyers
+JXJ Jax Jets LLC
+TFX testtt
+SGT Square Grouper Transport
+GCA Grace Air
+EHV EasternHops.com
+EAH eastern long haul
+OVT Ohio Valley Air Transport
+ACU Air Charter UK
+FTW Discover Airlines
+KER KEKE AIR
+NUX Nutty Express
+EIA Embai Airlines
+TIT FLY TITTIES AIRWAVES
+DNA Denik Airways
+IGO Indigo
+HLK Bruchpiloten
+ASP AirSpace Virtual
+YPY Yaphy Airlines
+OSM OSMO Airways
+TBS TBS Airways
+VA1 Virgin Atlantic
+EXS Jet2.com
+BIT Bitrinsic Star Alliance
+GSM flyglobespan
+TSV Transatlantic Virtual
+SCH Schooner Airlines
+BEL Brussels Airlines
+CVH Canada Virtual Heli Services
+PAY Pacific Airways
+SFW Safari Wings
+EST Eastern Airways
+CAC Central Air Corp.
+BSH BlueSky Aviation Hungary
+EEP European Express
+PVA Virtual ACES
+VPP Vipper Airlines
+PCH Pilatus & Friends
+ANZ Air New Zealand
+QSV Smartwings Group MSFS
+JTL JetLag Airways
+DAH Air Algérie
+ANV Alanta Network VA
+GUP GEARUP VA 2.0
+CAR CROSS AIR
+PVI PAC VA
+APU Airway Philippines
+EJA NetJets
+DTM DTMOPS
+GAA Galatic Airways
+SAN scott Airline
+VPF Arza Air
+SPK Spark Airlines
+VUK Intersun
+BBB Binter Canarias
+AXV Grant Aviation
+UWA United World Airline
+NDS AirInternational
+OAT Olympic Airlinnes
+OZA Asiana Airline
+TBL Turnbull Air
+SEH Sky Express Virtual
+FXV FedEx virtual
+CPH Copenhagen Airlines
+KOI Koito Air
+HAE Air Haeflinger
+HEQ Hellenic Airlines Virtual
+SXA Southern Cross Airlines
+VSS Virgin Atlantic
+AFS Air france virtuel
+VUL Air Sup
+FAA FredAster Airlines
+ATX Revlan's Air Taxi
+UAV United Airlines Virtual
+CAB Caribou Airways
+SWR SWISS International Airlines
+ACM Air Canada
+VRF vTAC RAAF Air Mobility Command
+LGT LoganTravel VA
+RGE RegionalEast Airlines
+ABP ABS Jets
+AYR Fly Ayerbourne
+LEI AIR-ALMERIA
+PBJ PBJ Airlines
+LAA Líneas Aéreas Americanas
+FAC Federal Aviation - General Cargo
+GEV AirGermanyva.com
+RLF vTAC RAF LIGHTNING FORCE
+AWE Virtual US Airways
+PRJ AeroRican
+RYS RYR Virtual
+ZPT Azores VA
+GNX Genex Airlines
+ACS Air Casale
+PBA PlayBoy Airways
